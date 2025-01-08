@@ -15,3 +15,8 @@ assignees: ''
 * [document what you know]
    
  ### Acceptance Criteria
+```gherkin
+Given [some preconditions]
+When [some event happens]
+Then [some outcome]
+```
